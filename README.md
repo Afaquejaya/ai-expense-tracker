@@ -80,6 +80,12 @@ flutter run
 
 In each case, watch the backend terminal to see the matching `[HOOK TRIGGERED]` logs.
 
+Expected result for test 1:
+
+<p align="center">
+  <img src="AI%20Hook%20Expense%20tracker%20app.png" alt="App showing the Dubai Mall dinner and taxi expenses" width="300">
+</p>
+
 ### Test the API directly
 
 ```bash
